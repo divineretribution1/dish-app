@@ -20,8 +20,8 @@
 <h2>Getting Started</h2>
 <ol>
 <li>Clone the project repository</li>
-<li>Install the dependencies by running npm install in the terminal</li>
-<li>Start the application with npm start</li>
+<li>Install the dependencies by running "npm install" in the terminal</li>
+<li>Start the application with "npm start"</li>
 </ol>
 
 
