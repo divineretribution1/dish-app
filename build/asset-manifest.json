@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/divineretribution1/dish-app/static/css/main.4f3eedb1.css",
+    "main.js": "/divineretribution1/dish-app/static/js/main.2768f3c5.js",
+    "static/media/mainBg.jpg": "/divineretribution1/dish-app/static/media/mainBg.9c66a164393409b0587d.jpg",
+    "index.html": "/divineretribution1/dish-app/index.html",
+    "main.4f3eedb1.css.map": "/divineretribution1/dish-app/static/css/main.4f3eedb1.css.map",
+    "main.2768f3c5.js.map": "/divineretribution1/dish-app/static/js/main.2768f3c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f3eedb1.css",
+    "static/js/main.2768f3c5.js"
+  ]
+}
